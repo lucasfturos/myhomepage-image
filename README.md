@@ -1,3 +1,3 @@
 # myhomepage-image
 
-Banco de imagens do site myhomepage
+Banco de imagens do meu site myhomepage
