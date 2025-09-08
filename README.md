@@ -1,9 +1,9 @@
-# myhomepage-image
+# homepage-image
 
-Banco de imagens do meu site myhomepage.
+Banco de imagens do meu site homepage.
 
 Link do repositório:
 
 ```
-https://github.com/lucasfturos/myhomepage
+https://github.com/lucasfturos/homepage
 ```
